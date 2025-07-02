@@ -6,6 +6,7 @@ RUN npm install
 COPY . .
 RUN npm run build
 
+
 # Stage 2: Serve the build with a static server
 FROM node:20-alpine AS production
 WORKDIR /app
