@@ -1,0 +1,453 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "properties": "Properties",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "infoBar": {
+    "email": "deeprealties@gmail.com",
+    "phone": "+91 98765 43210"
+  },
+  "language": {
+    "en": "English",
+    "hi": "हिंदी"
+  },
+  "home": {
+    "title": "Welcome to Deeprealties",
+    "subtitle": "Your Trusted Partner in Real Estate",
+    "description": "Discover the perfect property that matches your dreams and lifestyle. We offer a wide range of residential and commercial properties across prime locations.",
+    "buyProperty": "Buy Property",
+    "sellProperty": "Sell Property",
+    "heroSubtitle": "Buy Smart - Sell Fast ",
+    "actionButtons": {
+      "buy": {
+        "title": "Buy Property",
+        "description": "Find your dream home"
+      },
+      "sell": {
+        "title": "Sell Property",
+        "description": "Get the best value"
+      },
+      "rent": {
+        "title": "Rent Property",
+        "description": "Flexible living options"
+      }
+    },
+    "whyChooseUs": "Why Choose Us",
+    "feature1": {
+      "title": "Buy Property",
+      "description": "Looking for a new home or land? We help you find the best property at the right price.Explore homes, plots, and flats in your preferred location."
+    },
+    "feature2": {
+      "title": "Sell Property",
+      "description": "Want to sell your property quickly and easily? We list your property, connect you with buyers, and handle the paperwork.Get the best value without the hassle."
+    },
+    "feature3": {
+      "title": "Rent Property",
+      "description": "Searching for a house or shop to rent? We have verified rental listings for all needs and budgets.Whether you’re a student, family, or business — we’ve got you covered."
+    },
+    "feature4": {
+      "title": "Invest With Us",
+      "description": "Looking to grow your money through real estate? We offer smart investment options in high-growth areas.Get expert advice and choose the best properties to invest in."
+    },
+    "stats": {
+      "properties": "Properties",
+      "clients": "Clients",
+      "years": "Years Experience",
+      "satisfaction": "Satisfaction Rate"
+    },
+    "propertyTypes": "Property Types We Deal In",
+    "types": {
+      "residential": "Residential",
+      "residentialDesc": "Houses, apartments, villas, and plots for living",
+      "commercial": "Commercial",
+      "commercialDesc": "Shops, offices, warehouses, and business spaces",
+      "agricultural": "Agricultural",
+      "agriculturalDesc": "Farmlands, orchards, and agricultural properties",
+      "industrial": "Industrial",
+      "industrialDesc": "Factories, manufacturing units, and industrial land"
+    },
+    "cta": {
+      "title": "Ready to Find Your Dream Property?",
+      "description": "Let us help you find the perfect property that matches your requirements and budget.",
+      "button": "Get Started Today"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Deeprealties is a leading real estate company committed to providing exceptional service and quality properties to our clients. With years of experience in the market, we understand the unique needs of our customers and strive to exceed their expectations.",
+    "mission": "Our Mission",
+    "missionText": "To provide innovative real estate solutions that create lasting value for our clients and communities.",
+    "vision": "Our Vision",
+    "visionText": "To be the most trusted and preferred real estate partner for all property needs.",
+    "story": "Our Story",
+    "storyText": "Founded with a vision to make property buying and selling simple and transparent, Deeprealties has grown to become a trusted name in real estate.",
+    "values": "Our Values",
+    "valuesList": {
+      "integrity": "Integrity",
+      "integrityText": "We conduct business with complete transparency and honesty",
+      "excellence": "Excellence",
+      "excellenceText": "We strive for excellence in every transaction",
+      "customerFirst": "Customer First",
+      "customerFirstText": "Our customers' satisfaction is our top priority",
+      "innovation": "Innovation",
+      "innovationText": "We embrace new technologies and methods"
+    },
+    "team": "Our Team",
+    "teamText": "Our team consists of experienced professionals dedicated to providing the best real estate services."
+  },
+  "properties": {
+    "title": "Our Properties",
+    "subtitle": "Find Your Dream Property",
+    "heroBadge": "Premium Properties",
+    "availableProperties": "Available Properties",
+    "propertiesFound": "properties found",
+    "properties": "properties",
+    "featured": "Featured",
+    "searchPlaceholder": "Search properties...",
+    "filterBy": "Filter by",
+    "priceRange": "Price Range",
+    "propertyType": "Property Type",
+    "location": "Location",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "area": "Area",
+    "sqft": "sq ft",
+    "viewDetails": "View Details",
+    "contactAgent": "Contact Agent",
+    "residential": "Residential",
+    "commercial": "Commercial",
+    "luxury": "Luxury",
+    "affordable": "Affordable",
+    "price": "Price",
+    "location": "Location",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "serviceTabs": {
+      "all": {
+        "title": "All Properties",
+        "description": "Browse all available properties"
+      },
+      "buy": {
+        "title": "Buy Properties",
+        "description": "Find your dream home to buy"
+      },
+      "sell": {
+        "title": "Sell Properties", 
+        "description": "List your property for sale"
+      },
+      "rent": {
+        "title": "Rent Properties",
+        "description": "Find rental properties"
+      }
+    },
+    "filters": {
+      "propertyType": "Property Type",
+      "allTypes": "All Types",
+      "location": "Location",
+      "allLocations": "All Locations",
+      "priceRange": "Price Range",
+      "allPrices": "All Prices",
+      "under50Lakhs": "Under ₹50 Lakhs",
+      "50LakhsTo2Crores": "₹50 Lakhs - ₹2 Crores",
+      "above2Crores": "Above ₹2 Crores"
+    },
+    "serviceTypes": {
+      "buy": "For Sale",
+      "sell": "For Sale",
+      "rent": "For Rent"
+    },
+    "noProperties": {
+      "title": "No Properties Found",
+      "description": "Try adjusting your search criteria or browse all properties",
+      "resetFilters": "Reset Filters"
+    },
+    "stats": {
+      "forSale": "For Sale",
+      "forRent": "For Rent",
+      "featured": "Featured"
+    },
+    "propertyTypes": {
+      "apartment": "Apartment",
+      "house": "House",
+      "villa": "Villa",
+      "plot": "Plot",
+      "shop": "Shop",
+      "office": "Office",
+      "warehouse": "Warehouse",
+      "farmland": "Farmland",
+      "factory": "Factory",
+      "residential": "Residential",
+      "commercial": "Commercial",
+      "agricultural": "Agricultural",
+      "industrial": "Industrial"
+    }
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Testimonials from Satisfied Customers",
+    "heroBadge": "Client Reviews",
+    "availableReviews": "Available Reviews",
+    "reviewsFound": "reviews found",
+    "reviews": "reviews",
+    "featured": "Featured",
+    "readMore": "Read More",
+    "serviceTabs": {
+      "all": {
+        "title": "All Reviews",
+        "description": "Browse all client testimonials"
+      },
+      "buy": {
+        "title": "Buy Reviews",
+        "description": "Reviews from property buyers"
+      },
+      "sell": {
+        "title": "Sell Reviews",
+        "description": "Reviews from property sellers"
+      },
+      "rent": {
+        "title": "Rent Reviews",
+        "description": "Reviews from property renters"
+      }
+    },
+    "serviceTypes": {
+      "buy": "For Buy",
+      "sell": "For Sell",
+      "rent": "For Rent"
+    },
+    "propertyTypes": {
+      "residential": "Residential",
+      "commercial": "Commercial",
+      "investment": "Investment"
+    },
+    "noReviews": {
+      "title": "No Reviews Found",
+      "description": "No reviews available for this service type"
+    },
+    "stats": {
+      "totalClients": "Total Clients",
+      "averageRating": "Average Rating",
+      "satisfactionRate": "Satisfaction Rate",
+      "verifiedReviews": "Verified Reviews"
+    },
+    "featuredSection": {
+      "title": "What Makes Us Different",
+      "description": "Deeprealties has transformed the way I think about real estate. Their commitment to transparency, personalized service, and deep market knowledge made buying my dream home an enjoyable experience. They truly understand both urban and rural property markets, making them the perfect partner for any property transaction.",
+      "author": {
+        "name": "Rajesh Kumar",
+        "position": "CEO, Tech Solutions Ltd."
+      }
+    },
+    "whyChoose": {
+      "title": "Why Clients Choose Deeprealties",
+      "reasons": {
+        "trust": {
+          "title": "Trust & Transparency",
+          "description": "We believe in complete transparency in all our dealings, building lasting trust with our clients."
+        },
+        "personalized": {
+          "title": "Personalized Service",
+          "description": "Every client gets personalized attention and customized solutions for their property needs."
+        },
+        "expertise": {
+          "title": "Market Expertise",
+          "description": "Our deep understanding of both urban and rural markets ensures the best deals for our clients."
+        },
+        "security": {
+          "title": "Legal Security",
+          "description": "Complete legal support and documentation to ensure secure and hassle-free transactions."
+        }
+      }
+    },
+    "cta": {
+      "title": "Ready to Experience Our Service?",
+      "description": "Join hundreds of satisfied clients who have found their perfect property with us.",
+      "startJourney": "Start Your Journey",
+      "viewMoreReviews": "View More Reviews"
+    },
+    "client1": {
+      "name": "Rahul Sharma",
+      "location": "Mumbai",
+      "text": "Deeprealties helped me find my dream home in the perfect location. Their team was professional and guided me through every step."
+    },
+    "client2": {
+      "name": "Priya Patel",
+      "location": "Delhi",
+      "text": "I sold my property through Deeprealties and got the best price. Their marketing strategy and negotiation skills are excellent."
+    },
+    "client3": {
+      "name": "Amit Kumar",
+      "location": "Bangalore",
+      "text": "As an investor, I appreciate their market knowledge and property recommendations. They helped me make profitable investments."
+    },
+    "client4": {
+      "name": "Sunita Devi",
+      "location": "Pune",
+      "text": "The team at Deeprealties is very helpful and transparent. They made the entire process smooth and stress-free."
+    },
+    "client5": {
+      "name": "Vikram Singh",
+      "location": "Chennai",
+      "text": "Selling my property with Deeprealties was a breeze. They handled everything professionally and got me the best deal."
+    },
+    "client6": {
+      "name": "Anjali Reddy",
+      "location": "Hyderabad",
+      "text": "Found the perfect rental property through Deeprealties. Their service was exceptional and the process was very smooth."
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We're here to help you with all your real estate needs",
+    "heroBadge": "Contact Us",
+    "description": "Ready to start your real estate journey? Contact us today for personalized assistance.",
+    "stats": {
+      "support": "Support Available",
+      "response": "Response Time",
+      "satisfaction": "Satisfaction Rate"
+    },
+    "serviceTabs": {
+      "general": {
+        "title": "General Inquiry",
+        "description": "General questions and information"
+      },
+      "buy": {
+        "title": "Buy Property",
+        "description": "Find your dream property"
+      },
+      "sell": {
+        "title": "Sell Property",
+        "description": "Get the best price for your property"
+      },
+      "rent": {
+        "title": "Rent Property",
+        "description": "Find rental properties"
+      },
+      "invest": {
+        "title": "Investment",
+        "description": "Property investment opportunities"
+      },
+      "legal": {
+        "title": "Legal Support",
+        "description": "Legal documentation and support"
+      }
+    },
+    "form": {
+      "title": "Send us a Message",
+      "description": "Fill out the form below and we'll get back to you as soon as possible.",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "location": "Preferred Location",
+      "propertyType": "Property Type",
+      "budget": "Budget Range",
+      "message": "Message",
+      "namePlaceholder": "Enter your full name",
+      "emailPlaceholder": "Enter your email address",
+      "phonePlaceholder": "Enter your phone number",
+      "locationPlaceholder": "Enter preferred location",
+      "messagePlaceholder": "Tell us about your requirements...",
+      "selectPropertyType": "Select Property Type",
+      "selectBudget": "Select Budget Range",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": {
+        "title": "Message Sent Successfully!",
+        "description": "Thank you for contacting us. We'll get back to you within 24 hours."
+      }
+    },
+    "propertyTypes": {
+      "residential": "Residential",
+      "commercial": "Commercial",
+      "agricultural": "Agricultural",
+      "industrial": "Industrial",
+      "land": "Land"
+    },
+    "budgets": {
+      "under10Lakh": "Under ₹10 Lakh",
+      "10to25Lakh": "₹10 Lakh - ₹25 Lakh",
+      "25to50Lakh": "₹25 Lakh - ₹50 Lakh",
+      "50LakhTo1Cr": "₹50 Lakh - ₹1 Crore",
+      "above1Cr": "Above ₹1 Crore"
+    },
+    "validation": {
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email address",
+      "phoneRequired": "Phone number is required",
+      "messageRequired": "Message is required"
+    },
+    "info": {
+      "address": {
+        "title": "Office Address",
+        "text": "123 Real Estate Street, City, State 12345"
+      },
+      "phone": {
+        "title": "Phone Number",
+        "availability": "Available 24/7"
+      },
+      "email": {
+        "title": "Email Address",
+        "availability": "Response within 2 hours"
+      },
+      "hours": {
+        "title": "Office Hours",
+        "text": "Mon-Fri: 9:00 AM - 6:00 PM, Sat: 9:00 AM - 4:00 PM"
+      }
+    },
+    "emergency": {
+      "title": "Emergency Contact",
+      "description": "For urgent matters, call us immediately"
+    },
+    "chat": {
+      "title": "Live Chat",
+      "online": "Online",
+      "welcome": "Hello! Welcome to Deeprealties. How can I help you today?",
+      "placeholder": "Type your message...",
+      "responses": {
+        "welcome": "Thank you for contacting Deeprealties! Our team will assist you with all your real estate needs.",
+        "help": "I can help you with property buying, selling, renting, and investment queries. What would you like to know?",
+        "contact": "You can reach us at +91-9876543210 or email us at info@deeprealties.com for immediate assistance.",
+        "services": "We offer comprehensive real estate services including property buying, selling, renting, investment, and legal support."
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Find answers to common questions about our services",
+      "q1": {
+        "question": "How do I start the property buying process?",
+        "answer": "Contact us through phone, email, or our contact form. We'll schedule a consultation to understand your requirements and guide you through the entire process."
+      },
+      "q2": {
+        "question": "What documents do I need to sell my property?",
+        "answer": "You'll need property documents, ownership papers, tax receipts, and other legal documents. Our team will provide you with a complete checklist."
+      },
+      "q3": {
+        "question": "Do you handle both urban and rural properties?",
+        "answer": "Yes, we specialize in both urban and rural properties including residential, commercial, agricultural, and industrial properties."
+      },
+      "q4": {
+        "question": "What are your service charges?",
+        "answer": "Our service charges are competitive and transparent. We'll discuss all fees upfront during our initial consultation."
+      }
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Deeprealties. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contactInfo": "Contact Info",
+    "tagline": "Connecting you to your dream property with transparency and trust.",
+    "contact": "Contact",
+    "buyProperty": "Buy Property",
+    "sellProperty": "Sell Property",
+    "rentProperty": "Rent Property",
+    "propertyManagement": "Property Management",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved."
+  }
+} 

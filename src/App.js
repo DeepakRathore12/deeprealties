@@ -1,23 +1,42 @@
-import logo from './logo.svg';
+import React, { useState } from 'react';
+import { useTranslation } from 'react-i18next';
 import './App.css';
+import Navbar from './components/Navbar';
+import Home from './components/Home';
+import About from './components/About';
+import Properties from './components/Properties';
+import Testimonials from './components/Testimonials';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
 
 function App() {
+  const { t } = useTranslation();
+  const [currentSection, setCurrentSection] = useState('home');
+
+  const renderSection = () => {
+    switch (currentSection) {
+      case 'home':
+        return <Home />;
+      case 'about':
+        return <About />;
+      case 'properties':
+        return <Properties />;
+      case 'testimonials':
+        return <Testimonials />;
+      case 'contact':
+        return <Contact />;
+      default:
+        return <Home />;
+    }
+  };
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navbar onSectionChange={setCurrentSection} currentSection={currentSection} />
+      <main className="main-content">
+        {renderSection()}
+      </main>
+      <Footer />
     </div>
   );
 }
