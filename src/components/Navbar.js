@@ -54,7 +54,7 @@ const Navbar = ({ onSectionChange, currentSection }) => {
       <nav className="navbar">
         <div className="navbar-container">
           <div className="navbar-logo" onClick={() => handleSectionChange('home')}>
-            <img src="/deeprealties.png" alt="Deeprealties Logo" className="logo-image" />
+            <img src="/favicon.ico" alt="Logo" className="logo-image" />
             <span>Deeprealties</span>
           </div>
           <div className="menu-icon" onClick={handleClick}>
@@ -112,4 +112,4 @@ const Navbar = ({ onSectionChange, currentSection }) => {
   );
 };
 
-export default Navbar; 
+export default Navbar;

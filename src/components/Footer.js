@@ -18,7 +18,7 @@ const Footer = () => {
           <div className="footer-section">
             <h4>{t('footer.contact', 'Contact')}</h4>
             <p>Email: info@deeprealties.com</p>
-            <p>Phone: +91 98765 43210</p>
+            <p>Phone: +91 83055 51215</p>
             <p>Address: Indore, Madhya Pradesh</p>
           </div>
           
